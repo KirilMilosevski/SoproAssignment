@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\bin\Debug\net6.0\MovieWebApp.Models.deps.json
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\bin\Debug\net6.0\MovieWebApp.Models.dll
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\bin\Debug\net6.0\ref\MovieWebApp.Models.dll
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\bin\Debug\net6.0\MovieWebApp.Models.pdb
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\obj\Debug\net6.0\MovieWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\obj\Debug\net6.0\MovieWebApp.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\obj\Debug\net6.0\MovieWebApp.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\obj\Debug\net6.0\MovieWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\obj\Debug\net6.0\MovieWebApp.Models.dll
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\obj\Debug\net6.0\ref\MovieWebApp.Models.dll
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\obj\Debug\net6.0\MovieWebApp.Models.pdb
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.Models\obj\Debug\net6.0\MovieWebApp.Models.csproj.AssemblyReference.cache

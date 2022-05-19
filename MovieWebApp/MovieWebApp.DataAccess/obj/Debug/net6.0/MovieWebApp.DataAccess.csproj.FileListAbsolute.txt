@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\obj\Debug\net6.0\MovieWebApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\obj\Debug\net6.0\MovieWebApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\obj\Debug\net6.0\MovieWebApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\obj\Debug\net6.0\MovieWebApp.DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\obj\Debug\net6.0\MovieWebApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\bin\Debug\net6.0\MovieWebApp.DataAccess.deps.json
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\bin\Debug\net6.0\MovieWebApp.DataAccess.dll
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\bin\Debug\net6.0\ref\MovieWebApp.DataAccess.dll
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\bin\Debug\net6.0\MovieWebApp.DataAccess.pdb
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\bin\Debug\net6.0\MovieWebApp.Models.dll
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\bin\Debug\net6.0\MovieWebApp.Models.pdb
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\obj\Debug\net6.0\MovieWebApp.DataAccess.csproj.CopyComplete
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\obj\Debug\net6.0\MovieWebApp.DataAccess.dll
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\obj\Debug\net6.0\ref\MovieWebApp.DataAccess.dll
+C:\Users\User\Desktop\MovieWebApp\MovieWebApp.DataAccess\obj\Debug\net6.0\MovieWebApp.DataAccess.pdb

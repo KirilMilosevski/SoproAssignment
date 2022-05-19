@@ -1,0 +1,25 @@
+﻿@model IEnumerable<MovieWebApp.Models.Genre>
+
+@{
+    ViewData["Title"] = "Mainpage";
+}
+
+
+
+
+<h3>Movie Genres</h3>
+<table cellpadding="15" cellspacing="15" border="5">
+    <tr>
+        <th>Genres</th>
+      
+     
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+           
+            <td>@item.Name</td>
+
+        </tr>
+    }
+</table>

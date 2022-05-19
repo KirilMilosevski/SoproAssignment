@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MovieWebApp.Models.Movie>
+
+@{
+    ViewData["Title"] = "Mainpage";
+}
+
+
+
+
+<h3>Movies List</h3>
+<table cellpadding="15" cellspacing="15" border="3">
+    <tr>
+        <th>Title</th>
+        <th>Genre</th>
+        <th>Rating</th>
+        <th>Release date</th>
+           <th>Photo</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+           
+            <td>@item.Title</td>
+             <td>@item.Genre</td>
+            <td>@item.Rating</td>
+            <td>@item.ReleaseDate</td>
+             <td><img src="@item.Photo" width="400px" height="400px" /> </td>
+            <td align="right">
+                <a asp-action="Details" class="col-lg-12 col-md-12 col-sm-12 btn btn-outline-primary font-weight-bold border-width-2" asp-route-id="@item.Id">Details</a>
+            </td>
+        </tr>
+    }
+</table>

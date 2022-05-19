@@ -1,0 +1,25 @@
+﻿@model IEnumerable<MovieWebApp.Models.Person>
+
+@{
+    ViewData["Title"] = "Mainpage";
+}
+
+
+
+
+<h3>List of people</h3>
+<table cellpadding="15" cellspacing="15" border="3">
+    <tr>
+        <th>Name</th>
+        <th>Role</th>
+     
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+           
+            <td>@item.Name</td>
+             <td>@item.Role</td>
+        </tr>
+    }
+</table>
